@@ -1,0 +1,12 @@
+
+{
+  "id": "/vlab-iso-dna/",
+  "name": "DNA Lab - Virtual Isolasi DNA",
+  "short_name": "DNA Lab",
+  "description": "Virtual Laboratory Isolasi DNA Bawang Bombay",
+  "start_url": "/vlab-iso-dna/",
+  "scope": "/vlab-iso-dna/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1769aa"
+}
